@@ -1,6 +1,5 @@
 ### <div align="center">Hi there 👋 I'm Trix7R1X a full-stack developer with a passion for creating innovative and effective solutions 💡 My expertise lies in Python, JavaScript, DevOps, and more 💻 I have experience with a range of technologies and platforms, including Odoo, ERPNEXT, Django, Flask, AWS, Docker, and Nginx, C#, Python +10 more tools. 🚀 </div> 
 
-- 🔭 I’m currently working on [TrixSocial](https://trixsocial.com/) 
 <br/>  
 
 
